@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-italiano&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=grey" style="width: 250px;"></a>
+<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=grey" style="width: 200px;"></a>
 
