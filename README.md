@@ -2,7 +2,8 @@
 
 ---
 
-<img style="width:32px;" alt="french flag" src="./img/french-flag.png">
+<img style="width:32px;" alt="french flag" src="./img/french-flag.png"> I'm French
+<img style="width:32px;" alt="polytech logo" src="./img/polytech-logo.png"> Currently an engineering student in Computer Science and Management in Montpellier, France
 
 <!--
 **lorenzo-italiano/lorenzo-italiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
