@@ -1,5 +1,9 @@
 # Hi there, I'm Lorenzo 👋 
 
+<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=grey" style="width: 150px;">
+</a>
+
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -68,5 +72,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-italiano&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=grey" style="width: 150px;"></a>
 
