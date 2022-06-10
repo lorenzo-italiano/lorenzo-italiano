@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=static&logo=linkedin&logoColor=white" style="width: 150px;">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=static&logo=LinkedIn&logoColor=white" style="width: 150px;">
 </a>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"/>
