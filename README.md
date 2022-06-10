@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=grey" style="width: 150px;">
 </a>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg" color="white"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
