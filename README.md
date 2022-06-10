@@ -4,6 +4,10 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px;">
 </a>
 
+<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=static&logo=linkedin&logoColor=white" style="width: 150px;">
+</a>
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 
