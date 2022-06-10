@@ -2,6 +2,7 @@
 
 ---
 
+<img style="width:32px;" alt="french flag" src="./img/french-flag.png">
 
 <!--
 **lorenzo-italiano/lorenzo-italiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
