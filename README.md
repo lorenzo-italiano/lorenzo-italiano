@@ -90,11 +90,17 @@
 <br/>
 <h3>IDE</h3>
 
+<img align="left" alt="Intellij" width="26px" src="img/intellij-logo.png" style="padding-right:10px;"/>
+
 <img align="left" alt="Clion" width="26px" src="img/clion-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="WebStorm" width="26px" src="img/webstorm-logo.png" style="padding-right:10px;"/>
 
-<!-- Jetbrains intellij datagrip webstorm -->
+<img align="left" alt="Pycharm" width="26px" src="img/pycharm-logo.png" style="padding-right:10px;"/>
+
+<img align="left" alt="DataGrip" width="26px" src="img/datagrip-logo.png" style="padding-right:10px;"/>
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -110,6 +116,7 @@
 
 <img align="left" alt="Trello" width="26px" src="img/trello-logo.png" style="padding-right:10px;"/>
 
+<!-- TODO dark mode for this logo -->
 <img align="left" alt="Project Libre" width="26px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
 
 PlantUML
