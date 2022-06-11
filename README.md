@@ -2,10 +2,10 @@
 
 ---
 
-<div float="left">
+<p float="left">
   <img style="width:32px;" alt="french flag" src="./img/french-flag.png">
   <h3>I'm French</h3>
-</div>
+</p>
 
 <h3>🎓 Engineering student in Computer Science and Management</h3>
 
