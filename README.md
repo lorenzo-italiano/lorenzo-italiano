@@ -60,7 +60,7 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="PHP" width="32px" src="php-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="PHP" width="32px" src="img/php-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 
