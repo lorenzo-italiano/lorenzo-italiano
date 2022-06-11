@@ -22,7 +22,7 @@
 </a>
 
 <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Guldo#3033?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
+  <img src="https://img.shields.io/badge/Guldo\#3033?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
 %3CServer%3E-%237289DA.svg
