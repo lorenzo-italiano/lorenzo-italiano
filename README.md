@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 
 # My most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-italiano&layout=compact&theme=dracula&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-italiano&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
