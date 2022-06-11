@@ -90,7 +90,7 @@
 <br/>
 <h3>IDE</h3>
 
-<img align="left" alt="Clion" width="26px" src="clion-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="img/clion-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
@@ -104,13 +104,13 @@
 [<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
-<img align="left" alt="StarUML" width="26px" src="staruml-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="StarUML" width="26px" src="img/staruml-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Modelio" width="26px" src="modelio-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Modelio" width="26px" src="img/modelio-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Trello" width="26px" src="trello-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Trello" width="26px" src="img/trello-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Project Libre" width="26px" src="projetlibre-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Project Libre" width="26px" src="img/projetlibre-logo.png" style="padding-right:10px;"/>
 
 PlantUML
 
