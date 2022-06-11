@@ -97,7 +97,13 @@
 <br/>
 <h3>IDE</h3>
 
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+
+
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+
 
 <!-- Jetbrains -->
 
