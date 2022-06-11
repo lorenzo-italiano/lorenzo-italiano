@@ -22,7 +22,7 @@
 </a>
 
 <!-- TODO ADD LINK-->
-<a href="#" target="blank">
+<a href="mailto:lorenzo.italiano34@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
@@ -37,12 +37,19 @@
 
 <h3>Programming languages</h3>
 
-Java
-C
-Python
-Swift
-Asm
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;"/>
 
+<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;"/>
+
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;"/>
+
+<img align="left" alt="Swift" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/>
+
+<br/>
+<br/>
+<h3>Agent base programming</h3>
+
+<img align="left" alt="Gama Platform" width="32px" src="https://gama-platform.org/img/gama-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -50,7 +57,7 @@ Asm
 
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VUE" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
