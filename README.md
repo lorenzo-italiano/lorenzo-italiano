@@ -80,7 +80,7 @@
 <br/>
 <h3>Versioning</h3>
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;"/>
 
@@ -90,17 +90,17 @@
 <br/>
 <h3>IDE</h3>
 
-<img align="left" alt="Intellij" width="26px" src="img/intellij-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Intellij" width="32px" src="img/intellij-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Clion" width="26px" src="img/clion-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="32px" src="img/clion-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="WebStorm" width="26px" src="img/webstorm-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="WebStorm" width="32px" src="img/webstorm-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Pycharm" width="26px" src="img/pycharm-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Pycharm" width="32px" src="img/pycharm-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="DataGrip" width="26px" src="img/datagrip-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="DataGrip" width="32px" src="img/datagrip-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -110,14 +110,14 @@
 [<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
-<img align="left" alt="StarUML" width="26px" src="img/staruml-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="StarUML" width="32px" src="img/staruml-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Modelio" width="26px" src="img/modelio-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Modelio" width="32px" src="img/modelio-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Trello" width="26px" src="img/trello-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Trello" width="32px" src="img/trello-logo.png" style="padding-right:10px;"/>
 
 <!-- TODO dark mode for this logo -->
-<img align="left" alt="Project Libre" width="26px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
 
 PlantUML
 
