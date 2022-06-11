@@ -2,7 +2,7 @@
 
 ---
 
-### <img float="right" style="width:16px;" alt="french flag" src="./img/french-flag.png"> I'm French
+### <img float="right" style="width:16px;" alt="french flag" src="./img/french-flag.png"> French
 
 <h3>🎓 Engineering student in Computer Science and Management</h3>
 
