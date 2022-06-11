@@ -110,7 +110,7 @@
 
 <img align="left" alt="Trello" width="26px" src="img/trello-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Project Libre" width="26px" src="img/projetlibre-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Project Libre" width="26px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
 
 PlantUML
 
