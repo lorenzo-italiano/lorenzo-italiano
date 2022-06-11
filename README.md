@@ -1,6 +1,4 @@
-## Hi there, I'm Lorenzo 👋 
-
----
+# Hi there, I'm Lorenzo 👋 
 
 ### <img float="right" style="width:16px;" alt="french flag" src="./img/french-flag.png"> French
 
@@ -27,9 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-## Connect with me
+# Connect with me
 
 <a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px; height: 32px;">
