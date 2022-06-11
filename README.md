@@ -16,16 +16,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
-<!-- TODO ADD LINK-->
-<a href="#" target="blank">
-  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
-</a>
-
-<a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Guldo%233033-fza?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
-</a>
-
-%3CServer%3E-%237289DA.svg
+<img src="https://img.shields.io/badge/Guldo%233033-fza?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
 
 <a href="mailto:lorenzo.italiano34@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 150px; height: 32px;">
