@@ -1,15 +1,15 @@
-# Hi there, I'm Lorenzo 👋 
+## Hi there, I'm Lorenzo 👋 
 
 ---
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction: row;">
   <img style="width:32px;" alt="french flag" src="./img/french-flag.png">
   <h3>I'm French</h3>
 </div>
 
 <br/>
 
-<h2>🎓 Engineering student in Computer Science and Management</h2>
+<h3>🎓 Engineering student in Computer Science and Management</h3>
 
 <br/>
 <img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png">  
