@@ -1,7 +1,11 @@
 ## Hi there, I'm Lorenzo 👋 
 
 ---
-fggeswegg
+
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png"><h3>I'm French</h3>
 
