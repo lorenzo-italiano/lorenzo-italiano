@@ -34,7 +34,7 @@
 
 <h3>Programming languages</h3>
 
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="32px" src="img/java-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;"/>
 
