@@ -7,15 +7,14 @@
   <h3>I'm French</h3>
 </div>
 
-<br/>
-
 <h3>🎓 Engineering student in Computer Science and Management</h3>
 
-<br/>
-<img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png">  
-## Studying at Polytech Montpellier, France
-<br/>
-## 📍 Montpellier, France
+<div>  
+  <img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png">  
+  <h3>Studying at Polytech Montpellier, France</h3>
+</div>  
+
+<h3>📍 Montpellier, France</h3>
 
 
 
