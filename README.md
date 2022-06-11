@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display:flex; flex-direction: row;">
+<div float="left">
   <img style="width:32px;" alt="french flag" src="./img/french-flag.png">
   <h3>I'm French</h3>
 </div>
