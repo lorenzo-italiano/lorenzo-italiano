@@ -2,9 +2,9 @@
 
 ---
 
-<div>
+<div style="display:flex;">
   <img style="width:32px;" alt="french flag" src="./img/french-flag.png">
-  <h2>I'm French</h2>
+  <h3>I'm French</h3>
 </div>
 
 <br/>
