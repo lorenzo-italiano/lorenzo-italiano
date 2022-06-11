@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
-<a>
+<a href="#">
   <img src="https://img.shields.io/badge/Guldo%233033-fza?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
