@@ -18,7 +18,11 @@
 
 <!-- TODO ADD LINK-->
 <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/%3Server%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
+  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
+</a>
+
+<a href="#" target="blank">
+  <img src="https://img.shields.io/badge/La-LA?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
 %3CServer%3E-%237289DA.svg
