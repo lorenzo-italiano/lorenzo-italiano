@@ -2,10 +2,9 @@
 
 ---
 
-<img style="width:32px;" alt="french flag" src="./img/french-flag.png">
-## I'm French
+<img style="width:32px;" alt="french flag" src="./img/french-flag.png"><h2>I'm French</h2>
 <br/>
-## 🎓 Engineering student in Computer Science and Management
+<h2>🎓 Engineering student in Computer Science and Management</h2>
 <br/>
 <img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png">  
 ## Studying at Polytech Montpellier, France
