@@ -2,8 +2,7 @@
 
 ---
 
-<img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png">
-## I'm French
+## <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png"> I'm French
 
 <br/>
 
