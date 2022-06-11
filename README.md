@@ -2,19 +2,11 @@
 
 ---
 
-## <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png"> I'm French
-
-<br/>
-
-
-
+### <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png"> I'm French
 
 <h3>🎓 Engineering student in Computer Science and Management</h3>
 
-<div>  
-  <img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png">  
-  <h3>Studying at Polytech Montpellier, France</h3>
-</div>  
+### <img style="width:32px;" alt="polytech logo" src="./img/logo-polytech.png"> Studying at Polytech Montpellier, France
 
 <h3>📍 Montpellier, France</h3>
 
