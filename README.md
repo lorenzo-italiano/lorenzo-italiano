@@ -12,18 +12,18 @@
 
 # Connect with me
 
-<a href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
+<a align="left" href="https://www.linkedin.com/in/lorenzo-italiano-dev/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
-<img src="https://img.shields.io/badge/Guldo%233033-fza?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
+<img align="left" src="https://img.shields.io/badge/Guldo%233033-fza?style=for-the-badge&logo=discord&logoColor=white" style="width: 150px; height: 32px;">
 
-<a href="mailto:lorenzo.italiano34@gmail.com" target="blank">
+<a align="left" href="mailto:lorenzo.italiano34@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
 <!-- TODO ADD LINK-->
-<a href="#" target="blank">
+<a align="left" href="#" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
