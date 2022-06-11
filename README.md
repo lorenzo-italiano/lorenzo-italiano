@@ -78,13 +78,6 @@
 
 <br/>
 <br/>
-<h3>Bash and Zsh</h3>
-
-[<img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br/>
-<br/>
 <h3>Versioning</h3>
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
@@ -99,16 +92,26 @@
 
 <img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
 
-
-
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
-<!-- StarUML Modelio Trello ProjectLibre -->
+<!-- Jetbrains intellij datagrip webstorm -->
+
+<br/>
+<br/>
+<h3>Tools</h3>
+
+[<img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
-<!-- Jetbrains -->
+<img align="left" alt="StarUML" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" style="padding-right:10px;"/>
 
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<!-- Modelio Trello ProjectLibre PlantUML -->
 
 <!--
 ---
