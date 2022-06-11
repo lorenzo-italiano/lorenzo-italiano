@@ -36,17 +36,17 @@
 
 <img align="left" alt="Java" width="32px" src="img/java-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;"/>
+<img align="left" alt="C" width="32px" src="img/c-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="32px" src="img/python-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Swift" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" style="padding-right:10px;"/>
+<img align="left" alt="Swift" width="32px" src="img/swift-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
 <h3>Agent base programming</h3>
 
-<img align="left" alt="Gama Platform" width="32px" src="https://gama-platform.org/img/gama-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Gama Platform" width="32px" src="img/gama-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -56,23 +56,23 @@
 
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="Vue" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+<img align="left" alt="Vue" width="32px" src="img/vue-logo.png"/>
 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="padding-right:10px;"/>
+<img align="left" alt="PHP" width="32px" src="php-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" style="padding-right:10px;"/>
+<img align="left" alt="Express" width="32px" src="img/express-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
 <h3>Database</h3>
 
-<img align="left" alt="Oracle" width="32px" src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" style="padding-right:10px;"/>
+<img align="left" alt="Oracle" width="32px" src="img/oracle-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" style="padding-right:10px;"/>
+<img align="left" alt="PostgreSQL" width="32px" src="img/postgresql-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
@@ -90,7 +90,7 @@
 <br/>
 <h3>IDE</h3>
 
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
+<img align="left" alt="Clion" width="26px" src="clion-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
@@ -104,14 +104,15 @@
 [<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
-<img align="left" alt="StarUML" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" style="padding-right:10px;"/>
+<img align="left" alt="StarUML" width="26px" src="staruml-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
-<img align="left" alt="Clion" width="26px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" style="padding-right:10px;"/>
-<!-- Modelio Trello ProjectLibre PlantUML -->
+<img align="left" alt="Modelio" width="26px" src="modelio-logo.png" style="padding-right:10px;"/>
+
+<img align="left" alt="Trello" width="26px" src="trello-logo.png" style="padding-right:10px;"/>
+
+<img align="left" alt="Project Libre" width="26px" src="projetlibre-logo.png" style="padding-right:10px;"/>
+
+PlantUML
 
 <!--
 ---
