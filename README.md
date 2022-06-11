@@ -1,12 +1,25 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 ## Hi there, I'm Lorenzo 👋 
 
 ---
 
-| <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png">   |     <h3>I'm French</h3>     |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| <img float="right" style="width:32px;" alt="french flag" src="./img/french-flag.png">   |     <h3>I'm French</h3>     |
+|:----------:|:-------------:|
+| col 1 is |  left-aligned | 
+| col 2 is |    centered   |   
+| col 3 is | right-aligned |
 
 
 
