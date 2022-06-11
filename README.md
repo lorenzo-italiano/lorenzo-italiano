@@ -24,8 +24,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
-<!-- TODO ADD LINK-->
-<a href="#" target="blank">
+<a href="https://www.instagram.com/lorenzo_ita_/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="width: 150px; height: 32px;">
 </a>
 
