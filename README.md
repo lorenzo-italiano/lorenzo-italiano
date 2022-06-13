@@ -116,8 +116,9 @@
 
 <img align="left" alt="Trello" width="32px" src="img/trello-logo.png" style="padding-right:10px;"/>
 
-<!-- TODO dark mode for this logo -->
-<img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
+<img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
+
+<img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
 
 <img align="left" alt="PlantUML" width="32px" src="img/plantuml-logo.png" style="padding-right:10px;"/>
 
@@ -144,7 +145,5 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/martonlederer/martonlederer
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#game-mode-
-
-
 
 -->
