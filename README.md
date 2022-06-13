@@ -106,11 +106,8 @@
 <br/>
 <h3>Tools</h3>
 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank" #gh-light-mode-only>
-  <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg"/>
-</a>
-
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank">
+  <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg#gh-light-mode-only"/>
   <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg#gh-dark-mode-only"/>
 </a>
 
@@ -120,9 +117,6 @@
 
 <a href="https://github.com/" target="blank">
   <img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
-</a>
-
-<a href="https://github.com/" target="blank">
   <img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
 </a>
 
@@ -140,9 +134,6 @@
 
 <a href="https://www.projectlibre.com/" target="blank">
   <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
-</a>
-
-<a href="https://www.projectlibre.com/" target="blank">
   <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
 </a>
 
