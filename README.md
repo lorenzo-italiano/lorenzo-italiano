@@ -133,7 +133,7 @@
 </a>
 
 <a href="https://www.projectlibre.com/" target="blank">
-  <picture>
+  <picture width="32px">
     <source media="(prefers-color-scheme: dark)" srcset="img/projectlibre-logo-light.png">
     <img alt="Project Libre" src="img/projectlibre-logo-dark.png">
   </picture>
