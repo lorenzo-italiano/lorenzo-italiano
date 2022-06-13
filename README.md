@@ -107,8 +107,10 @@
 <h3>Tools</h3>
 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank">
-  <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg#gh-light-mode-only"/>
-  <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg#gh-dark-mode-only"/>
+  <picture width="32px">
+    <source media="(prefers-color-scheme: dark)" srcset="img/terminal-dark.svg">
+    <img align="left" width="32px" alt="Project Libre" src="img/terminal-light.svg" style="padding-right:10px;"/>
+  </picture>
 </a>
 
 <a href="https://git-scm.com/" target="blank">
@@ -116,8 +118,10 @@
 </a>
 
 <a href="https://github.com/" target="blank">
-  <img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
-  <img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
+  <picture width="32px">
+    <source media="(prefers-color-scheme: dark)" srcset="img/github-logo-light.png">
+    <img align="left" width="32px" alt="Project Libre" src="img/github-logo-dark.png" style="padding-right:10px;"/>
+  </picture>
 </a>
 
 <a href="https://staruml.io/" target="blank">
@@ -137,10 +141,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="img/projectlibre-logo-light.png">
     <img align="left" width="32px" alt="Project Libre" src="img/projectlibre-logo-dark.png" style="padding-right:10px;"/>
   </picture>
-  <!--
-  <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
-  <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
-  -->
 </a>
 
 <a href="http://www.plantuml.com/" target="blank">
