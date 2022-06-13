@@ -121,6 +121,10 @@
 
 <img align="left" alt="PlantUML" width="32px" src="img/plantuml-logo.png" style="padding-right:10px;"/>
 
+pgadmin
+phpmyadmin
+
+
 <!--
 ---
 
