@@ -100,7 +100,7 @@
 
 <img align="left" alt="DataGrip" width="32px" src="img/datagrip-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="32px" src="img/vscode-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
@@ -120,10 +120,6 @@
 <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="PlantUML" width="32px" src="img/plantuml-logo.png" style="padding-right:10px;"/>
-
-pgadmin
-phpmyadmin
-
 
 <!--
 ---
