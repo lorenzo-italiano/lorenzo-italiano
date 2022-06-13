@@ -52,17 +52,17 @@
 <br/>
 <h3>Web programming (front and back)</h3>
 
-<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="HTML5" width="32px" src="img/html-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="32px" src="img/css-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Vue" width="32px" src="img/vue-logo.png"/>
 
-<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="32px" src="img/javascript-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="PHP" width="32px" src="img/php-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Node.js" width="32px" src="img/nodejs-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Express" width="32px" src="img/express-logo.png" style="padding-right:10px;"/>
 
@@ -74,13 +74,13 @@
 
 <img align="left" alt="PostgreSQL" width="32px" src="img/postgresql-logo.png" style="padding-right:10px;"/>
 
-<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="32px" src="img/mysql-logo.png" style="padding-right:10px;"/>
 
 <br/>
 <br/>
 <h3>Versioning</h3>
 
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="32px" src="img/git-logo.png" style="padding-right:10px;"/>
 
 <img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
 
