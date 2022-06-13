@@ -82,9 +82,9 @@
 
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
-<img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-dark-mode-only" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
 
-<img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-light-mode-only" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
 
 <br/>
 <br/>
