@@ -1,6 +1,6 @@
 # Hi there, I'm Lorenzo 👋 
 
-### <img float="right" style="width:16px;" alt="french flag" src="./img/french-flag.png">  French
+### <img float="right" style="width:16px;" alt="french flag" src="./img/french-flag.png"> \ French
 
 <h3>🎓 Engineering student in Computer Science and Management</h3>
 
