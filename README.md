@@ -106,9 +106,9 @@
 <br/>
 <h3>Tools</h3>
 
-[<img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+<img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg"/>
 
+<img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg"/>
 
 <img align="left" alt="StarUML" width="32px" src="img/staruml-logo.png" style="padding-right:10px;"/>
 
