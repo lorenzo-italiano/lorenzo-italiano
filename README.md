@@ -106,8 +106,8 @@
 <br/>
 <h3>Tools</h3>
 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank">
-  <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg#gh-light-mode-only"/>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank">#gh-light-mode-only
+  <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank">
