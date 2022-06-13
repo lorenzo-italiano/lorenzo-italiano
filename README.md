@@ -131,6 +131,20 @@ PlantUML
 -->
 
 <!--
-sources
+sources:
+
+https://github.com/simple-icons/simple-icons
+
+https://simpleicons.org/
+
+https://github.com/Ileriayo/markdown-badges#badges
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+https://github.com/martonlederer/martonlederer
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#game-mode-
+
+
 
 -->
