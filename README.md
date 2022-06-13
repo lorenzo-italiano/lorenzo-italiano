@@ -42,10 +42,6 @@
 
 <img align="left" alt="Swift" width="32px" src="img/swift-logo.png" style="padding-right:10px;"/>
 
-<br/>
-<br/>
-<h3>Agent base programming</h3>
-
 <img align="left" alt="Gama Platform" width="32px" src="img/gama-logo.png" style="padding-right:10px;"/>
 
 <br/>
