@@ -78,16 +78,6 @@
 
 <br/>
 <br/>
-<h3>Versioning</h3>
-
-<img align="left" alt="Git" width="32px" src="img/git-logo.png" style="padding-right:10px;"/>
-
-<img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
-
-<img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
-
-<br/>
-<br/>
 <h3>IDE</h3>
 
 <img align="left" alt="Intellij" width="32px" src="img/intellij-logo.png" style="padding-right:10px;"/>
@@ -107,6 +97,12 @@
 <h3>Tools</h3>
 
 <img align="left" alt="Terminal" width="32px" src="./img/terminal-light.svg#gh-light-mode-only"/>
+
+<img align="left" alt="Git" width="32px" src="img/git-logo.png" style="padding-right:10px;"/>
+
+<img align="left" alt="GitHub" width="32px" src="img/github-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
+
+<img align="left" alt="GitHub" width="32px" src="img/github-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
 
 <img align="left" alt="Terminal" width="32px" src="./img/terminal-dark.svg#gh-dark-mode-only"/>
 
