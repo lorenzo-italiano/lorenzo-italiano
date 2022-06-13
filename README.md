@@ -133,8 +133,14 @@
 </a>
 
 <a href="https://www.projectlibre.com/" target="blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/projectlibre-logo-light.png">
+    <img alt="Project Libre" src="img/projectlibre-logo-dark.png">
+  </picture>
+  <!--
   <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-dark.png#gh-light-mode-only" style="padding-right:10px;"/>
   <img align="left" alt="Project Libre" width="32px" src="img/projectlibre-logo-light.png#gh-dark-mode-only" style="padding-right:10px;"/>
+  -->
 </a>
 
 <a href="http://www.plantuml.com/" target="blank">
